@@ -25,5 +25,7 @@ WS.verifyElementPropertyValue(response, 'id', 1)
 
 WS.verifyElementPropertyValue(response, 'name', 'Leanne Graham')
 
+WS.verifyElementPropertyValue(response, 'username', 'Bret')
+
 WS.verifyElementPropertyValue(response, 'address.street', 'Kulas Light')
 
